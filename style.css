@@ -1,0 +1,40 @@
+
+
+
+h2 {
+    color:white;
+   padding-top: 500px;
+   text-align: center;}
+
+
+h3 {
+    color:white;
+    padding-top: 0px;
+    
+    text-align: center;}
+
+h4{
+    font-size: 30px;
+    color:white;
+    text-align: right;
+    top: 0px;
+    padding-right: 0px;
+  
+
+}
+h5{
+    font-size: 30px;
+    color:white;
+    text-align: left;
+    top: 0px;
+    padding-left: 0px;
+    
+}
+.container{ color:white;
+    font-size: 70px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;}
